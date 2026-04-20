@@ -1,0 +1,5 @@
+{
+    "rtsp_url": "rtsp://admin:BCJS2025@192.168.2.250:554/Streaming/Channels/201",
+    "camera_name": "cam2",
+    "conf_threshold": 0.6
+}
